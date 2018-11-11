@@ -4,7 +4,7 @@ This is an experiment in creating a text editor (for computer code) in Safari/We
 
 **Requires Safari >=4,Chrome, or Firefox**
 
-> Disclaimer: This is just for fun not for use.
+> Disclaimer: This is just for fun not for actual editing.
 
 ## Usage
 

@@ -8,7 +8,7 @@ This is an experiment in creating a text editor (for computer code) in Safari/We
 
 ## Usage
 
-Open `index.html`.
+Open `index.html` or Try it live at <a href="https://coderduino.github.io/WebEdit-Sublime/">My Pages<a>.
 
 ### Disabling Prettify (syntax highlighting)
 
